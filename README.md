@@ -1,9 +1,5 @@
 # Blog Post APP
 
-![plot](README_images/home.png)
-
-<p>Welcome! If you're interested in learning how to build a blog post application, I invite you to check out my tutorial on Medium called "<a href="https://medium.com/@santiagobedoa/building-a-full-stack-blog-application-a-step-by-step-tutorial-ad9067a8ec90">Building a Full-Stack Blog Application: A Step-by-Step Tutorial</a>". In this repository, you can find the source code for the tutorial. This project is a great way to learn more about building a full-stack application, and I'd love to have you join me on this journey!</p>
-
 ## Quick Overview
 
 Blogging has become an essential tool for individuals and organizations alike to share their thoughts, opinions, and knowledge with the world. With the advancement of technology, creating and managing a blog has become easier than ever. In this post, we will discuss how to build a blog post app using React, Node.js and MySQL. React is a popular front-end JavaScript library for building user interfaces, while Node.js is a powerful back-end JavaScript runtime environment that can be used with MySQL, a popular open-source relational database management system to create scalable, robust and efficient web applications.
